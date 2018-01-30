@@ -1,5 +1,5 @@
 # TabNav
-**TabNav** is a simple iOS app that displays colors and animals in tab bar controller. The goal of this project is to practice creating UITabBarController and UINavigationController in storyboard file.
+**TabNav** is a simple iOS app that displays colors and animals in tab bar controller. The goal of this project is to practice creating `UITabBarController` and `UINavigationController` in storyboard file.
 
 ## Video Walkthrough
 <img src='https://i.imgur.com/T9Kf2VW.gif' width='' />
@@ -9,7 +9,7 @@
 1. Create a new iOS project
 2. Name it `TabNav`
 3. Save it
-4. Download [these](/#TabNav) images. You'll need them for your project.
+4. Download [these](/TabNav) images. You'll need them for your project.
 
 ## Required features
 
